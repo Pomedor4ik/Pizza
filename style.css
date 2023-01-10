@@ -157,31 +157,6 @@ body {
     left: 200px;
 }
 
-.two{
-    bottom: 120px;
-    left: 226px;
-}
-
-.three{
-    bottom: 165px;
-    left: 240px;
-}
-
-.four{
-    bottom: 78px;
-    left: 260px;
-}
-
-.five{
-    bottom: 187px;
-    left: 200px;
-}
-
-.six{
-    bottom: 137px;
-    left: 204px;
-}
-
 .deliveryP1{
     width: 88px;
     height: 40px;
@@ -336,6 +311,10 @@ body {
     transition-duration: 0.2s;
 }
 
+.eins{
+    padding-bottom: 10px;
+}
+
 .vier {
     padding-bottom: 10px;
 }
@@ -388,4 +367,259 @@ body {
     font-size: 14px;
     line-height: 16px;
     color: #FFFFFF;
+}
+
+.All-ItemsArticles{
+    display: flex;
+}
+
+.All-Items{
+    width: 117px;
+    height: 27px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 27px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 60px;
+}
+
+.Articles{
+    width: 117px;
+    height: 27px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 27px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 678px;
+}
+
+.ThirdContainer{
+    display: flex;
+    width: 206px;
+    height: 171px;
+    border: 1px solid #F2EEEE;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+
+.burger-food{
+    position: absolute;
+    top: 560px;
+    left: 470px;
+}
+
+.ThirdContainer1{
+    width: 100px;
+    height: 13px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 13px;
+    padding-top: 56px;
+    padding-left: 28px;
+}
+
+.ThirdContainer2{
+    width: 140px;
+    height: 44px; 
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #898686;
+    padding-left: 28px;
+    padding-top: 8px;
+}
+
+.ThirdContainer3{
+    width: 30px;
+    height: 18px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 18px;
+    padding-left: 28px;
+    padding-top: 16px;
+}
+
+.soupCost{
+    width: 30px;
+    height: 18px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 18px;
+    padding-left: 28px;
+    padding-top: 5px;
+}
+
+.FoodContainer{
+    display: flex;
+}
+
+.ThirdContainerSoup{
+    width: 206px;
+    height: 153px;
+    background: #F2EEEE;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+
+.soup-food{
+    position: absolute;
+    top: 560px;
+    left: 757px;
+}
+
+.soup2-food{
+    position: absolute;
+    top: 560px;
+    left: 1000px;
+}
+
+.plusNone{
+    display: none;
+}
+
+
+.plus{
+    width: 32px;
+    height: 32px;
+    margin-top: 6px;
+    margin-left: 100px;
+}
+
+.pAndSvg{
+    display: flex;
+}
+
+.yesNone{
+    display: none;
+}
+
+.yes{
+    width: 32px;
+    height: 32px;
+    margin-left: 100px;
+}
+
+.Comments{
+    position: absolute;
+    left: 1210px;
+    top: 596px;
+}
+
+.ContainerCom{
+    width: 250px;
+    height: 70px;
+    display: flex;
+    margin-left: 40px;
+}
+
+.chickenBlock{
+    width: 50px;
+    height: 50px;
+    background: #FFF0A5;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chickenBlock>img{
+    width: 28px;
+    height: 28px;
+}
+
+.HowTo{
+    width: 127px;
+    height: 30px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 15px;
+    padding-left: 13px;
+}
+
+.A{
+    width: 167px !important;
+}
+
+.comment{
+    width: 45px;
+    height: 18px;
+    background: #FFF8D5;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 12px;
+}
+
+.comment>img{
+    width: 11px;
+    height: 11px;
+}
+
+.comment>p{
+    width: 17px;
+    height: 12px;
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    padding-top: 3px;
+}
+
+.SmileBlock{
+    width: 50px;
+    height: 50px;
+    background: #D6F5FF;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SmileBlock>img{
+    width: 37px;
+    height: 37px; 
+}
+
+.CoockieBlock{
+    width: 50px;
+    height: 50px;
+    background: #e9a8de;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CoockieBlock>img{
+    width: 50px;
+    height: 50px;
+}
+
+.pizzaBlock{
+    width: 50px;
+    height: 50px;
+    background: #C1FFF4;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
